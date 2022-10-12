@@ -29,6 +29,8 @@ INSTALLED_APPS = [
     "search",
     "flex",
     "temoignage",
+    "streams",
+    'wagtail.contrib.styleguide',
     "wagtail.contrib.forms",
     "wagtail.contrib.redirects",
     "wagtail.contrib.modeladmin",
